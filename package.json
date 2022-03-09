@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "zenn-cli": "^0.1.107"
+  },
+  "name": "blog-integration2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yusuke Wada <wada.yusuke@classmethod.jp>",
+  "license": "MIT"
+}
